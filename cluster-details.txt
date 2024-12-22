@@ -1,0 +1,5 @@
++-----------------+-------+
+| Kafka REST Port | 8082  |
+| Plaintext Ports | 35979 |
++-----------------+-------+
+Started Confluent Local containers "101bbdb7ae".
